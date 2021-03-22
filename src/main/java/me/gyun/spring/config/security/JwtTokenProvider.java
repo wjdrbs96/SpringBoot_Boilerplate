@@ -20,5 +20,6 @@ public class JwtTokenProvider {
 
     @PostConstruct
     private void init() {
+        String a = "test";
     }
 }
